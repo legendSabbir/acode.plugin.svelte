@@ -1,0 +1,14 @@
+{
+  "id":"acode.plugin.svelte",
+  "name":"Svelte",
+  "main":"dist/main.js",
+  "version":"1.0.0",
+  "readme":"readme.md",
+  "minVersionCode": 250, 
+  "icon":"icon.png",
+  "files":[],
+  "author": {
+    "name":"Legend Sabbir",
+    "email":"sabbirhossain.trash@gmail.com",
+    "github":"legendSabbir"
+  }}
